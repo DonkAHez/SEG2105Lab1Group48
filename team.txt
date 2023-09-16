@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 Laith
-=======
 Dong
 Jordan
->>>>>>> efca61b1e4417a6d6aaf31b29db0fd93cd197992
+
 
